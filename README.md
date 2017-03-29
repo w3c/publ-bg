@@ -6,6 +6,8 @@ For further details, see
 * [Public mailing list archives](http://lists.w3.org/Archives/Public/public-publishingbg/)
 * [Meeting minutes](https://www.w3.org/wiki/PublishingBG/Minutes)
 
-HTML documents on this repository’s master branch can also be displayed in a browser via the `https://w3c.github.io/pub-bg/...` URL-s. For example, the `docs/EPUB4_business_case.html` can be read via the https://w3c/github.io/pub-bg/docs/EPUB4_business_case.html URL.
+HTML documents on this repository’s master branch can also be displayed in a browser via the `https://w3c.github.io/pub-bg/...` URL-s. For example, the `docs/EPUB4_business_case.html` can be read via the https://w3c.github.io/pub-bg/docs/EPUB4_business_case.html URL.
+
+---
 
 For any further help, contact either [Bill McCoy](bmccoy@w3.org) or [Ivan Herman](ivan@w3.org).
