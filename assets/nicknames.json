@@ -1,5 +1,9 @@
 [
 	{
+		"nick"		: ["Rachel"],
+		"name"		: "Rachel Comerford"
+	},
+	{
 		"nick"		: ["michael_miller"],
 		"name"		: ["Michael Miller"]
 	},
@@ -16,12 +20,12 @@
 		"name"		: ["Kyrce Swenson"]
 	},
 	{
-		"nick"		: ["michaelbaker"],
+		"nick"		: ["michaelbaker", "mikebaker"],
 		"name"		: "Michael Baker",
 		"github"	: "mikebbaker"
 	},
 	{
-		"nick"		: ["liisamk"],
+		"nick"		: ["liisamk", "liisa"],
 		"name"		: "Liisa McCloy-Kelley",
 		"github"	: "liisamk"
 	},
@@ -101,7 +105,7 @@
 		"name"		: "Vladimir Levantovsky"
 	},
 	{
-		"nick"		: ["Bill_Kasdorf"],
+		"nick"		: ["Bill_Kasdorf", "BillK"],
 		"name"		: "Bill Kasdorf",
 		"github"	: "BillKasdorf"
 	},
@@ -223,7 +227,7 @@
 		"name"		: "Junko Kamata"
 	},
 	{
-		"nick"		: ["gamou"],
+		"nick"		: ["gamou", "jun_gamo"],
 		"name"		: "Jun Gamou"
 	},
 	{
@@ -246,6 +250,10 @@
 	{
 		"nick"		: ["takeshi"],
 		"name"		: "Takeshi Kanai"
+	},
+	{
+		"nick"		: ["ralph"],
+		"name"		: "Ralph Swick"
 	}
 
 ]
