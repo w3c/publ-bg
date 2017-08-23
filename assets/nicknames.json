@@ -254,6 +254,9 @@
 	{
 		"nick"		: ["ralph"],
 		"name"		: "Ralph Swick"
+	},
+	{
+		"nick"      : ["jyoshii"],
+		"name"		: "Junichi Yoshii"
 	}
-
 ]
