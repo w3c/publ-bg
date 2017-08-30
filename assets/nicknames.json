@@ -258,5 +258,21 @@
 	{
 		"nick"      : ["jyoshii"],
 		"name"		: "Junichi Yoshii"
+	},
+	{
+		"nick"		: ["robby"],
+		"name"		: "Robby Robson"
+	},
+	{
+		"nick"		: [],
+		"name"		: "Jason Colman"
+	},
+	{
+		"nick"		: ["Virginie"],
+		"name"		: "Virginie Clayssen"
+	},
+	{
+		"nick"		: ["Michaela"],
+		"name"		: "Michaela Philipzen"
 	}
 ]
