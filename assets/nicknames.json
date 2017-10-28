@@ -211,7 +211,7 @@
 		"name"		: "Julian Calderazi"
 	},
 	{
-		"nick"		: ["jensklingelhoefer"],
+		"nick"		: ["jensklingelhoefer", "Jens_Bookwire"],
 		"name"		: "Jens Klingelhöfer"
 	},
 	{
@@ -274,5 +274,13 @@
 	{
 		"nick"		: ["Michaela"],
 		"name"		: "Michaela Philipzen"
+	},
+	{
+		"nick"		: ["Daihei"],
+		"name"		: "Daihei_Shiohama"
+	},
+	{
+		"nick"		: ["Dan_Sanicola"],
+		"name"		: "Dan Sanicola"
 	}
 ]
