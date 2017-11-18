@@ -256,8 +256,8 @@
 		"name"		: "Ralph Swick"
 	},
 	{
-		"nick"      : ["jyoshii"],
-		"name"		: "Junichi Yoshii"
+		"nick"      : ["jyoshii", "yoshii"],
+		"name"		: "Jun-ichi Yoshii"
 	},
 	{
 		"nick"		: ["robby"],
@@ -277,7 +277,7 @@
 	},
 	{
 		"nick"		: ["Daihei"],
-		"name"		: "Daihei_Shiohama"
+		"name"		: "Daihei Shiohama"
 	},
 	{
 		"nick"		: ["Dan_Sanicola"],
