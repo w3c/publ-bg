@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>W3C Publishing Business Group</title>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Publishing Business Group" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="full-screen" content="yes" />
+    <link rel="stylesheet" href="https://www.w3.org/publishing/groups/publ-wg/assets/css/style.css">
+    <link rel="stylesheet" href="https://www.w3.org/publishing/groups/publ-wg/assets/css/style-extras.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+    .smaller {
+        font-size: smaller
+    }
+
+    </style>
+</head>
+<body>
+    {% include header.html %}
+    <main>
+        {% include nav.html %}
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                <a href="https://www.w3.org/publishing/">
+                    <object data="https://www.w3.org/publishing/logo/logo.svg" height=25 type="image/svg+xml"></object>
+                </a>
+                <br/>
+                Publishing Business Group
+            </h1>
+            {{ content }}
+        </section>
+        {% include aside.html %}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
