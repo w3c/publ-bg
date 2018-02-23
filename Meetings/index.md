@@ -10,7 +10,7 @@ layout: default
 
 ## Teleconferences
 
-The weekly teleconferences are held every week on Tuesdays, at *noon US Eastern time* (which corresponds, in the summer period of the Northern Hemisphere, to 9am for San Diego, 1pm for São Paulo, 5pm for London, 6pm for Paris, 9:30pm for New Delhi, and 1am for Tokyo, see also the [time zone calculator](http://bit.ly/2rXCoPx)). See the [separate page](./gotomeetings) for the dial-in information.
+The weekly teleconferences are held every second weeks on Tuesdays, at *noon US Eastern time* (which corresponds, in the summer period of the Northern Hemisphere, to 9am for San Diego, 1pm for São Paulo, 5pm for London, 6pm for Paris, 9:30pm for New Delhi, and 1am for Tokyo, see also the [time zone calculator](http://bit.ly/2rXCoPx)). See the [separate page](./gotomeetings) for the dial-in information.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pbg` channel, and makes use of two bots on IRC:
 
