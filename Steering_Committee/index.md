@@ -1,12 +1,14 @@
-
 ---
 layout: default
 ---
 
+
 # Steering Committee
 {: .no_toc}
 
-The Publishing BG chooses a Steering Committee, so that a smaller, more focused group of core contributors may help coordinate and facilitate the work of the EPUB3 CG, Publishing BG, and WG. The steering committee has no independent authority; formal decision-making remains in the Publishing BG as a whole. The membership of the Steering Committee includes the chairs of all working groups, interest groups, and community groups associated with Publishing @W3C (provided those chairs are members of the Publishing BG), ex officio members that include the W3C’s Publishing Champion, the W3C staff contacts for each group, and other members as chosen by the Business Group, up to a maximum of 16 members.
+The Publishing BG chooses a Steering Committee to help coordinate and facilitate the work of the EPUB3 CG, Publishing BG, and WG. The steering committee has no independent authority; formal decision-making remains in the Publishing BG as a whole. The membership of the Steering Committee includes the chairs of all working groups, interest groups, and community groups associated with Publishing @W3C (provided those chairs are members of the Publishing BG), ex officio members that include the W3C’s Publishing Champion, the W3C staff contacts for each group, and other members as chosen by the Business Group, up to a maximum of 16 members.
+
+The SC has a meeting once every two weeks on Fridays. The [list of the meeting minutes](./Meetings/) is available on this site.
 
 ## Steering Committee Members
 
