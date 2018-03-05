@@ -10,7 +10,7 @@ layout: default
 
 ## Teleconferences
 
-The weekly teleconferences are held every second weeks on Tuesdays, at *noon US Eastern time* (which corresponds, in the summer period of the Northern Hemisphere, to 9am for San Diego, 1pm for São Paulo, 5pm for London, 6pm for Paris, 9:30pm for New Delhi, and 1am for Tokyo, see also the [time zone calculator](http://bit.ly/2rXCoPx)). See the [separate page](./gotomeetings) for the dial-in information.
+The weekly teleconferences are held every second weeks on Tuesdays (at the moment this corresponds to the ”odd” weeks, ie, week #11, #13, etc.), at *noon US Eastern time*. See the [time zone calculator](https://goo.gl/ujkGY1) for the corresponding time in your timezone. See the [separate page](./gotomeetings) for the dial-in information.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pbg` channel, and makes use of two bots on IRC:
 
@@ -35,4 +35,4 @@ Minute taking and cleanup is greatly helped by:
 
 ### Updating the minutes
 
-The minutes themselves are stored, in Markdown (more exactly in “Kremdown”) on the WG’s core [github repository](https://github.com/w3c/publ-wg) in the `Meeting/Minutes/2017`, `Meeting/Minutes/2018`, etc., folders.
+The minutes themselves are stored, in Markdown (more exactly in “Kremdown”) on the WG’s core [github repository](https://github.com/w3c/publ-bg) in the `Meetings/Minutes/2017`, `Meetings/Minutes/2018`, etc., folders.
