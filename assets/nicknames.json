@@ -282,5 +282,9 @@
 	{
 		"nick"		: ["Dan_Sanicola"],
 		"name"		: "Dan Sanicola"
+	},
+	{
+		"nick"		: ["Dan"],
+		"name"		: "Dan Fauxsmith"
 	}
 ]
