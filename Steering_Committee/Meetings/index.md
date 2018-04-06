@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
+* [04-06](./2018/2018-04-06-pbgsc)
 * [03-23](./2018/2018-03-23-pbgsc)
 * [03-09](./2018/2018-03-09-minutes)
 * [02-23](./2018/2018-02-23-minutes)
