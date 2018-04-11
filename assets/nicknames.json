@@ -286,5 +286,9 @@
 	{
 		"nick"		: ["Dan"],
 		"name"		: "Dan Fauxsmith"
+	},
+	{
+		"nick"		: ["stevebrault"],
+		"name"		: "Steve Brault"
 	}
 ]
