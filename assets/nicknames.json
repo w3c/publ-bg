@@ -294,5 +294,9 @@
 	{
 		"nick"		: ["bernadette"],
 		"name"		: "Bernadette Shade"
+	},
+	{
+		"nick"		: ["JulieBlair"],
+		"name"		: "Julie Blair"
 	}
 ]
