@@ -12,10 +12,6 @@
 		"name"		: "Manuel Rego Casasnovas"
 	},
 	{
-		"nick"		: ["liam"],
-		"name"		: "Liam Quin"
-	},
-	{
 		"nick"		: ["Kyrce"],
 		"name"		: "Kyrce Swenson"
 	},
@@ -209,6 +205,10 @@
 	{
 		"nick"		: ["Julian_Calderazi"],
 		"name"		: "Julian Calderazi"
+	},
+	{
+		"nick"		: ["jeff"],
+		"name"		: "Jeff Jaffee"
 	},
 	{
 		"nick"		: ["jensklingelhoefer", "Jens_Bookwire"],
