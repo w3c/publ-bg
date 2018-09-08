@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
+* [September 07](./2018/2018-09-07-pbgsc)
 * [August 24](./2018/2018-08-24-pbgsc)
 * [July 27](./2018/2018-07-27-pbgsc)
 * [June 29](./2018/2018-06-29-pbgsc)
