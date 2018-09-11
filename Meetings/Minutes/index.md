@@ -5,6 +5,8 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
+* [11 September](./2018/2018-09-11-pbg)
+* [28 August](https://www.w3.org/2018/08/28-pbg-minutes.html)
 * [31 July](./2018/2018-07-31-pbg)
 * [19 June](./2018/2018-06-19-pbg)
 * [5 June](./2018/2018-06-05-pbg)
