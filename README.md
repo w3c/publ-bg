@@ -10,4 +10,4 @@ HTML documents on this repository’s master branch can also be displayed in a b
 
 ---
 
-For any further help, contact either [Bill McCoy](bmccoy@w3.org) or [Ivan Herman](ivan@w3.org).
+For any further help, contact [Ivan Herman](ivan@w3.org).
