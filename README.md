@@ -1,4 +1,4 @@
-# Document repository of the Publishing Business Group
+# Document Repository of the Publishing Business Group
 
 For further details, see
 
