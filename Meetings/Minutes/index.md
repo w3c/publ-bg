@@ -5,6 +5,8 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
+* [6 November](./2018/2018-11-06-pbg)
+* [23 October, joint F2F with the WG](https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2018/2018-10-23-pwg.html#section1)
 * [9 October](./2018/2018-10-09-pbg)
 * [25 September](./2018/2018-09-25-pbg)
 * [11 September](./2018/2018-09-11-pbg)
