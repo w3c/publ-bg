@@ -306,5 +306,9 @@
 	{
 		"nick" : ["bobbytung"],
 		"name" : "Bobby Tung"
-	}
+	},
+	{
+        "name" : "Yu-Wei Chang (Yanni)",
+        "nick" : ["yanni"]
+    }
 ]
