@@ -139,7 +139,7 @@
 		"github"	: "bigbluehat"
 	},
 	{
-		"nick"		: ["lmeurs", "Laurent", "laurentlemeur"],
+		"nick"		: ["lmeurs", "Laurent", "laurentlemeur", "laurent_lm"],
 		"name"		: "Laurent Le Meur",
 		"github"	: "llemeurfr"
 	},
@@ -310,5 +310,9 @@
 	{
         "name" : "Yu-Wei Chang (Yanni)",
         "nick" : ["yanni"]
-    }
+	},
+	{
+		"nick" : ["chayes"],
+		"name" : "Caroline Hayes"
+	}
 ]
