@@ -4,6 +4,10 @@ layout: default
 
 # Meeting Minutes
 
+## Meetings in 2019
+* [January 11](./2019/2019-01-11-pbgsc)
+
+
 ## Meetings in 2018
 * [December 14](./2018/2018-12-14-pbgsc)
 * [November 30](./2018/2018-11-30-pbgsc)
