@@ -4,7 +4,13 @@ layout: default
 
 # Meeting Minutes
 
+## Meetings in 2019
+
+* [15 January](./2019/2019-01-15-pbg)
+
+
 ## Meetings in 2018
+
 * [4 December](./2018/2018-12-04-pbg)
 * [13/14 November](./2018/2018-11-14-pbg)
 * [6 November](./2018/2018-11-06-pbg)
