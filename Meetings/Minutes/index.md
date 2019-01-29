@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2019
 
+* [29 January](./2019/2019-01-29-pbg)
 * [15 January](./2019/2019-01-15-pbg)
 
 
