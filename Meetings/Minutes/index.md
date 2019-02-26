@@ -6,8 +6,9 @@ layout: default
 
 ## Meetings in 2019
 
-* [19 February](./2019/2019-02-19-pbg) (North-America–Asia time)
-* [12 February](./2019/2019-02-12-pbg) (North-America–Europe time)
+* [26 February](./2019/2019-02-26-pbg) (North-America — Europe time)
+* [19 February](./2019/2019-02-19-pbg) (North-America — East Asia time)
+* [12 February](./2019/2019-02-12-pbg) (North-America — Europe time)
 * [29 January](./2019/2019-01-29-pbg)
 * [15 January](./2019/2019-01-15-pbg)
 
