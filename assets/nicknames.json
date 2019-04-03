@@ -279,7 +279,7 @@
         "name": "Michaela Philipzen"
     },
     {
-        "nick": ["Daihei", "塩濱大平"],
+        "nick": ["Daihei", "塩濱大平", "Daihei_Shiohama"],
         "name": "Daihei Shiohama (塩濱大平)"
     },
     {
@@ -303,7 +303,7 @@
         "name": "Julie Blair"
     },
     {
-        "nick": ["wendyreid"],
+        "nick": ["wendyreid", "wendy"],
         "name": "Wendy Reid"
     },
     {
@@ -319,7 +319,11 @@
         "name": "Caroline Hayes"
     },
     {
-        "nick": ["shie"],
+        "nick": ["OZAWA"],
+        "name": "Ozawa Shogakukan"
+    },
+    {
+        "nick": ["shie", "ShinyaTakami", "takami"],
         "name": "Shinya Takami"
     }
 
