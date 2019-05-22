@@ -325,6 +325,9 @@
     {
         "nick": ["shie", "ShinyaTakami", "takami"],
         "name": "Shinya Takami"
+    },
+    {
+        "name" : "Adam Zaremba",
+        "nick" : ["adam_zaremba"]
     }
-
 ]
