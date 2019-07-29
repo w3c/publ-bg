@@ -1,8 +1,16 @@
 ---
 layout: default
 ---
+# Publishing Strategy meeting — Agenda and adendums to the minutes
+{: .no_toc}
 
-# 9:00 - 9:10 Opening Reminders and Introduction
+## Content:
+{: .no_toc}
+
+* TOC
+{:toc}
+## Agenda
+### 9:00 - 9:10 Opening Reminders and Introduction
 
 The outcome of the publishing strategy meetings is to come up with a
 strategy for publishing at W3C for next 3 to 5 years. Strategy
@@ -20,7 +28,7 @@ blocks and short term priorities on this call. The concrete decisions
 will require greater involvement of stake holders and this first meeting
 should be used to figure out how to involve them in the process.
 
-# 9:10 - 9:20 Known Truths
+### 9:10 - 9:20 Known Truths
 
 Review the things we know and agree on:
 
@@ -40,7 +48,7 @@ Review the things we know and agree on:
 -   **NEW:** We will continue to support our readers and end users of
     all abilities and have a great reading experience for all users
 
-# 9:20 - 10:00 Indentifying Target Beneficiaries
+### 9:20 - 10:00 Indentifying Target Beneficiaries
 
 Are there any additional target beneficiaries that we would like to
 identify that do not fall under the following categories?
@@ -61,7 +69,7 @@ identify that do not fall under the following categories?
 
 **NEW:** Ultimate Beneficiary: End user
 
-# 10:00 -- 11:00 Identifying Objectives (Target Beneficiaries)
+### 10:00 -- 11:00 Identifying Objectives (Target Beneficiaries)
 
 These Objectives have been aligned to those bemeficiaries that they best
 serve. What Objectives are we missing? Who can we better serve?
@@ -134,7 +142,7 @@ serve. What Objectives are we missing? Who can we better serve?
 -   **NEW:** Improve Implementation across the supply chain and supply
     best practices in use and support.
 
-# 11:00 -- 12:00 Objective Focus
+### 11:00 -- 12:00 Objective Focus
 
 -   What objectives should be the responsibility of each group within
     Publishing at W3C?
@@ -224,7 +232,7 @@ serve. What Objectives are we missing? Who can we better serve?
 -   How do we build better W3C relationships, prevent siloing (engaging
     other groups where they are)
 
-# 12:00 -- 12:45 Longer term plan
+### 12:00 -- 12:45 Longer term plan
 
 The charters should reflect the work that the publishing industry
 requires and supports. For this, important question is about involvement
@@ -243,9 +251,9 @@ of target beneficiaries:
 
 -   What are we doing with the current works that we have in process?
 
-# 12:45 - 1 Plan next steps and review of action items
+### 12:45 - 1 Plan next steps and review of action items
 
-# Parking Lot
+## Parking Lot
 {: #parkinglot}
 
 -   Continue to integrate the web and epub
