@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2019
 
+* [16 July](./2019/2019-07-16-pbg) (North-America — Europe time)
 * [02 July](./2019/2019-07-02-pbg) (North-America — Europe time)
 * [11 June](./2019/2019-06-11-pbg) (North-America — East Asia time)
 * [04 June](./2019/2019-06-04-pbg) (North-America — Europe time)
