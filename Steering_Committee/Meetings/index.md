@@ -5,7 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2019
-* [August 09](./2019/2019-08-23-pbgsc)
+* [August 23](./2019/2019-08-23-pbgsc)
 * [August 09](./2019/2019-08-09-pbgsc)
 * [July 23](./2019/2019-07-23-pbgsc) (Activity Strategy meeting)
 * [May 03](./2019/2019-05-03-pbgsc)
