@@ -66,7 +66,7 @@
         "name": "Avneesh Singh"
     },
     {
-        "nick": ["dauwhe"],
+        "nick": ["dauwhe", "DC"],
         "name": "Dave Cramer",
         "github": "dauwhe"
     },
@@ -110,7 +110,7 @@
         "github": "mattgarrish"
     },
     {
-        "nick": ["rdeltour"],
+        "nick": ["rdeltour", "RD", "romain"],
         "name": "Romain Deltour",
         "github": "deltour"
     },
@@ -279,7 +279,7 @@
         "name": "Michaela Philipzen"
     },
     {
-        "nick": ["Daihei", "塩濱大平", "Daihei_Shiohama"],
+        "nick": ["Daihei", "塩濱大平", "Daihei_Shiohama", "DH"],
         "name": "Daihei Shiohama (塩濱大平)"
     },
     {
