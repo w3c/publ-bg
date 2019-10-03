@@ -18,7 +18,7 @@ layout: default
 
 **3. Accessibility/DAISY Japan**
 * [Born Accessible Publications Legal and Social Environment in Japan](./Rev_Kawamura_PBG_TPAC2019_rev.pdf), Hiroshi Kawamura, Daisy Consortium
-* ["Creating the Best Way to Read and Publish"](./Avneesh_PBG_TPAC2019-2.pdf), Avneesh Singh, Daisy Consortium
+* [Creating the Best Way to Read and Publish](./Avneesh_PBG_TPAC2019-2.pdf), Avneesh Singh, Daisy Consortium
 * [ISO Process on EPUB Accessibility?](./Murata_PBG_TPAC2019.pdf), Murata Makoto, Keio University
 
 **4. Next Stage	Digital	Publications:	Content	cases	and	business needs**
