@@ -5,6 +5,9 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2019
+
+
+* [November 01](./2019/2019-11-01-pbgsc)
 * [October 04](./2019/2019-10-04-pbgsc)
 * [August 23](./2019/2019-08-23-pbgsc)
 * [August 09](./2019/2019-08-09-pbgsc)
@@ -19,6 +22,7 @@ layout: default
 
 
 ## Meetings in 2018
+
 * [December 14](./2018/2018-12-14-pbgsc)
 * [November 30](./2018/2018-11-30-pbgsc)
 * [November 02](./2018/2018-11-02-pbgsc)
