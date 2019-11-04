@@ -7,6 +7,7 @@ layout: default
 ## Meetings in 2019
 
 * [29 October](./2019/2019-10-29-pbg) (North-America — Europe time)
+* [16 October](./2019/2019-10-16-pbg) (North-America — East Asia time)
 * [01 October](./2019/2019-10-01-pbg) (North-America — Europe time)
 * [19 September](./2019/2019-09-19-pbg) (Symposium in Fukuoka, Japan, at the W3C TPAC)
 * [13 August](./2019/2019-08-13-pbg) (North-America — Europe time)
