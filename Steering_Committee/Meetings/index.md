@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2019
 
+* [December 13](./2019/2019-12-13-pbgsc)
 * [November 15](./2019/2019-11-15-pbgsc)
 * [November 01](./2019/2019-11-01-pbgsc)
 * [October 04](./2019/2019-10-04-pbgsc)
