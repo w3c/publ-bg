@@ -4,6 +4,10 @@ layout: default
 
 # Meeting Minutes
 
+## Meetings in 2020
+
+* [07 January](./2020/2020-01-07-pbg) (North-America — Europe time)
+
 ## Meetings in 2019
 
 * [17 December](./2019/2019-12-17-pbg) (North-America — Europe time)
