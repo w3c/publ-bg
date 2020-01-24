@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2020
 
+* [January 24](./2020/2020-01-24-pbgsc)
 * [January 10](./2020/2020-01-10-pbgsc)
 
 
