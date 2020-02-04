@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2020
 
+* [04 February](./2020/2020-02-04-pbg) (North-America — Europe time)
 * [21 January](./2020/2020-01-21-pbg) (North-America — East Asia time)
 * [07 January](./2020/2020-01-07-pbg) (North-America — Europe time)
 
