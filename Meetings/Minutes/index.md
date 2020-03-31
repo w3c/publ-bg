@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2020
 
+* [31 March](https://www.w3.org/2020/03/31-pbg-minutes.html) (North-America - Europe time)
 * [17 March](./2020/2020-03-17-pbg) (North-America — East Asia time)
 * [03 March](./2020/2020-03-03-pbg) (North-America — Europe time)
 * [04 February](./2020/2020-02-04-pbg) (North-America — Europe time)
