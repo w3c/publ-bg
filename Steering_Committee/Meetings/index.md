@@ -6,6 +6,7 @@ layout: default
 
 ## Meetings in 2020
 
+* [April 03](https://www.w3.org/2020/04/03-pbgsc-minutes.html)
 * [February 07](./2020/2020-02-07-pbgsc)
 * [January 24](./2020/2020-01-24-pbgsc)
 * [January 10](./2020/2020-01-10-pbgsc)
