@@ -10,7 +10,7 @@ layout: default
 
 ## Teleconferences
 
-The weekly teleconferences are held every second weeks on Tuesdays (at the moment this corresponds to the ”odd” weeks, ie, week #11, #13, etc.), at *noon US Eastern time*. See the [time zone calculator](https://goo.gl/ujkGY1) for the corresponding time in your timezone. See the [separate page](./gotomeetings) for the dial-in information.
+The weekly teleconferences are held every second weeks on Tuesdays (at the moment this corresponds to the ”odd” weeks, ie, week #11, #13, etc.), at *noon US Eastern time*. See the [time zone calculator](https://goo.gl/ujkGY1) for the corresponding time in your timezone. See the [separate page](https://lists.w3.org/Archives/Member/internal-publishingbg/2020Apr/0000.html) for the connection information.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pbg` channel, and makes use of two bots on IRC:
 
