@@ -333,5 +333,13 @@
     {
         "name": "Naomi Yoshizawa (吉澤直美)",
         "nick" : ["naomi"]
+    },
+    {
+        "nick": ["michelle_kelly"],
+        "name": "Michelle Kelly"
+    },
+    {
+        "nick": ["angela_doll"],
+        "name": "Angela Doll"
     }
 ]
