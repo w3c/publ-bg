@@ -6,6 +6,9 @@ layout: default
 
 ## Meetings in 2020
 
+https://www.w3.org/2020/06/09-pbg-minutes.html
+
+* [10 June](https://www.w3.org/2020/06/09-pbg-minutes.html) (North-America - East Asia time)
 * [26 May](https://www.w3.org/2020/05/26-pbg-minutes.html) (North-America - Europe time)
 * [29 April](https://www.w3.org/2020/04/28-pbg-minutes.html) (North-America - Europe time)
 * [14 April](https://www.w3.org/2020/04/14-pbg-minutes.html) (North-America — East Asia time)
