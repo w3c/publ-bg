@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2020
+* [June 12](https://www.w3.org/2020/06/12-pbgsc-minutes.html)
 * [May 29](https://www.w3.org/2020/05/29-pbgsc-minutes.html)
 * [May 1](https://www.w3.org/2020/05/01-pbgsc-minutes.html)
 * [April 17](https://www.w3.org/2020/04/17-pbgsc-minutes.html)
