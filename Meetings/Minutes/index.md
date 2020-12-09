@@ -6,6 +6,8 @@ layout: default
 
 ## Meetings in 2020
 
+* [8/9 December](https://www.w3.org/2020/12/08-pbg-minutes.html) (North-America - East Asia time)
+* [24 November](https://www.w3.org/2020/11/24-pbg-minutes.html) (North-America - Europe time)
 * [10 November](https://www.w3.org/2020/11/10-pbg-minutes.html) (North-America - East Asia time)
 * [13-October](https://www.w3.org/2020/10/13-pbg-minutes.html) (two calls; minutes are in one document)
 * [22-September](https://www.w3.org/2020/09/22-pbg-minutes.html) (North-America - Europe time)
